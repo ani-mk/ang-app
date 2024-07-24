@@ -1,3 +1,8 @@
+# Angular Project
+
+# Modules
+- Login
+- Register
 
 # EmpDetails
 
