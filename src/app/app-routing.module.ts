@@ -16,7 +16,7 @@ const routes: Routes = [
   {
     path: 'viewdetail',
     component: EmpDetailComponent
-    // loadChildren: () => import('./pages/emp-detail/emp-detail.module').then(m=> m.)
+    // loadChildren: 
   }
 ];
 
